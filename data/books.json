@@ -1,0 +1,26 @@
+[
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "isbn": "0062315007",
+        "genre": "Fantasy",
+        "price": 100.0,
+        "quantity": 5
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn": "0735211292",
+        "genre": "Dystopian",
+        "price": 165.2,
+        "quantity": 8
+    },
+    {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "isbn": "0135957059",
+        "genre": "Adventure",
+        "price": 450.0,
+        "quantity": 3
+    }
+]
